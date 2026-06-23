@@ -22,7 +22,7 @@ The full analysis is documented in:
 ➡️ notebook/01_analysis.ipynb
 
 ## 📄 Final Report
-➡️ reports/report visualization/final_report.md
+➡️ reports/final_report.md
 
 ## 📈 Dashboard
 ➡️ dashboard/dashboard.pptx
